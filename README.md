@@ -1,7 +1,7 @@
 # IsparkAPI
-Ispark kilometre bilgisine göre sıralama ve parkidsine göre detaylı listeleme
+Ispark bulunduğunuz konuma olan uzaklığına göre sıralama ve parkidsine göre detaylı listeleme
 
-# Kullanım
+# Codeigniter Kullanım
 
 ```php
 		$this->load->library('IsparkLib'); //IsparkLib kütüphanesini sisteme dahil ediyoruz.
